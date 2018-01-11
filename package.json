@@ -1,0 +1,19 @@
+{
+  "name": "micro-mysql-adminer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "micro": "^9.1.0",
+    "promise-mysql": "^3.2.0"
+  },
+  "devDependencies": {
+    "micro-dev": "^2.2.0"
+  },
+  "scripts": {
+    "start": "micro",
+    "dev": "micro-dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
